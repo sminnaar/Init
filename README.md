@@ -1,0 +1,2 @@
+# Init
+Bash is king
